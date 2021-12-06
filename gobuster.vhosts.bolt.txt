@@ -1,0 +1,2 @@
+Found: mail.bolt.htb (Status: 200) [Size: 4943]
+Found: demo.bolt.htb (Status: 302) [Size: 219]
